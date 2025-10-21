@@ -1,0 +1,5 @@
+{
+  "name": "AI Interview Report",
+  "description": "A web application that displays a detailed AI-generated interview report, including skill analysis via a radar chart, performance breakdowns with progress bars, and a review of specific interview questions and answers.",
+  "requestFramePermissions": []
+}
